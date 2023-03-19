@@ -53,9 +53,7 @@ header{
     box-sizing: border-box;
     transition: all .35s ease;
   }
-  /* .nav a:hover{
-      color:	#A0522D;
-  } */
+
   .nav a {
     padding: .5em .8em;
     color: rgba(255,255,255,.5);
